@@ -1,5 +1,3 @@
 <html>
-	<body>
-		<tr>Git</tr>
-	</body>
+	<body></body>
 </html>
