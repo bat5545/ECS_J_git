@@ -6,7 +6,8 @@
 	</head>
 	<body>
 		<h1>Git</h1>
-
+		<h2>GiTT</h2>
+		<h3>GITTT</h3>
 		<ul>
 			<li> 저장소</li>
 			<li> 햐</li>
