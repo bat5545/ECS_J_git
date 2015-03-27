@@ -1,3 +1,4 @@
 <html>
+<title> GIt 소개</title>
 	<head>	</head>
 </html>
