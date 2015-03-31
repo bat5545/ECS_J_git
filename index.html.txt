@@ -19,6 +19,7 @@
 			<li>원격저장소</li>
 			<li>push ecs</li>
 			<li>Pull ecs</li>
+			<li>poing ecs</li>
 		</ul>
 	</body>
 </html>
